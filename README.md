@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Khang
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently learning Golang
